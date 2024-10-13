@@ -1,2 +1,3 @@
 # telecot
 telegram_bots_course
+https://stepik.org/course/153850/promo?utm_source=aiogram3guide&utm_medium=web&utm_campaign=promo_page&referral=WzE1Mzg1MCw5ODIyMDUxNzMsMTcyODg1MjA2My43ODk3ODIzXQ%3A1t05Oh%3AXf06wR4vhb9A0cGzguA4DePDtc4
